@@ -1,0 +1,23 @@
+[
+    {"Genre":"Comedy"},
+    {"Genre":"Fantasy"},
+    {"Genre":"Crime"},
+    {"Genre":"Drama"},
+    {"Genre":"Music"},
+    {"Genre":"Adventure"},
+    {"Genre":"History"},
+    {"Genre":"Thriller"},
+    {"Genre":"Animation"},
+    {"Genre":"Family"},
+    {"Genre":"Mystery"},
+    {"Genre":"Biography"},
+    {"Genre":"Action"},
+    {"Genre":"Film-Noir"},
+    {"Genre":"Romance"},
+    {"Genre":"Sci-Fi"},
+    {"Genre":"War"},
+    {"Genre":"western"},
+    {"Genre":"Horror"},
+    {"Genre":"Musical"},
+    {"Genre":"Sport"}
+]
